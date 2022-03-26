@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **typescript**
 
 - 📫 How to reach me **lejulien@student.42.fr**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
