@@ -2,7 +2,7 @@
 <h3 align="center">A Software developper</h3>
 
 - 📫 How to reach me **leo.julien.42@gmail.com**
-- 🖥️ Personal projects https://gitea.lejulien.link
+- 🖥️ Personal projects https://git.lejulien.link
 - 🗫 Devlog @ https://lejulien.link
 <p align="left">
 </p>
